@@ -1,3 +1,6 @@
+//elddd
+int a = 10;
+
 unsigned long time;
 int count = 0;
 
